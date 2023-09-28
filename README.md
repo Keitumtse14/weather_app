@@ -1,1 +1,1 @@
-# Weather app using nextJs and OpenWeather API
+# Weather app using nextJs and Open-MeteoAPI
